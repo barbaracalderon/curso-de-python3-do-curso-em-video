@@ -10,7 +10,7 @@ total = valor
 cedula = 50
 total_cedula = 0
 while True:
-    if total >= cedula:
+    if total >= cedula: # A ideia é diminuir o valor da cédula do valor total, um por vez até não dar mais
         total -= cedula
         total_cedula += 1
     else:
