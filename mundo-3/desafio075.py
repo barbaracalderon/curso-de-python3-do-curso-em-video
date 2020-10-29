@@ -17,6 +17,7 @@ for c in tupla:
     elif c % 2 == 0:
         pares.append(c)
 print('-------------------------------------------------')
+print('RELATÓRIO')
 print(f'Os valores que você forneceu foram: {tupla}')
 print(f'O número 9 apareceu {tupla.count(9)} vezes')
 print(f'O número 3 apareceu primeiro na {posicao_tres}ª posição')
