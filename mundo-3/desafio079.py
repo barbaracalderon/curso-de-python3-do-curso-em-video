@@ -16,4 +16,5 @@ while True:
         continuar = str(input('Continuar? [S/N]: ')).upper().strip()
     if continuar == 'N':
         break
-print(f'Os valores digitados, em ordem crescente, é {lista}')
+lista.sort()
+print(f'Os valores digitados, em ordem crescente, são {lista}')
