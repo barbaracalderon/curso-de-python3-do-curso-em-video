@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Added two comments to the user">
+      <change beforePath="$PROJECT_DIR$/desafio079.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio079.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1jR5F74eLkzGZK2bgKXLe6013lq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/desafio077.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.desafio079">
+    <configuration name="desafio077" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ba\CursoemVideo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio077.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ba\CursoemVideo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio078.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ba\CursoemVideo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio079.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio079" />
+        <item itemvalue="Python.desafio078" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="" />
+      <created>1603753956515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603753956515</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated the README file for mundo-3">
+      <created>1603754295975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603754295975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the README file for mundo-3">
+      <created>1603754475874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603754475874</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Title to README">
+      <created>1603754589445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603754589445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Instructions to the challenge were inserted">
+      <created>1603754777086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603754777086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created the code for challenge 072">
+      <created>1603756850460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603756850460</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Simplified line 10">
+      <created>1603758302489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603758302489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created soccer challenge">
+      <created>1603800812587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603800812587</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inserted exception lines 17, 18, 27">
+      <created>1603801754110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603801754110</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Instructions inserted">
+      <created>1603912397582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603912397582</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Challenge finished">
+      <created>1603913131413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603913131414</updated>
+    </task>
+    <task id="LOCAL-00011" summary="First half is done">
+      <created>1603940591756</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603940591756</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Second half is done">
+      <created>1603942224239</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603942224239</updated>
+    </task>
+    <task id="LOCAL-00013" summary="erased the number 9 counter">
+      <created>1603943769172</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603943769172</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added line 20">
+      <created>1603943830686</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603943830686</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created the instructions to the challenge">
+      <created>1603943983601</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603943983601</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Price table challenge is completed">
+      <created>1603949498622</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603949498622</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Instructions inserted">
+      <created>1604063635650</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604063635650</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Challenge completed">
+      <created>1604067357842</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604067357842</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Instructions inserted">
+      <created>1604203499116</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604203499116</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Challenge completed">
+      <created>1604206310395</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604206310395</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Instructions to the challenge 079 inserted">
+      <created>1604249039926</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604249039926</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Almost there, needs to sort results">
+      <created>1604251189264</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604251189264</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added two comments to the user">
+      <created>1604251478721</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1604251478721</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated the README file for mundo-3" />
+    <MESSAGE value="Added Title to README" />
+    <MESSAGE value="Instructions to the challenge were inserted" />
+    <MESSAGE value="Created the code for challenge 072" />
+    <MESSAGE value="Simplified line 10" />
+    <MESSAGE value="Created soccer challenge" />
+    <MESSAGE value="Inserted exception lines 17, 18, 27" />
+    <MESSAGE value="Challenge finished" />
+    <MESSAGE value="First half is done" />
+    <MESSAGE value="Second half is done" />
+    <MESSAGE value="erased the number 9 counter" />
+    <MESSAGE value="Added line 20" />
+    <MESSAGE value="Created the instructions to the challenge" />
+    <MESSAGE value="Price table challenge is completed" />
+    <MESSAGE value="Instructions inserted" />
+    <MESSAGE value="Challenge completed" />
+    <MESSAGE value="Instructions to the challenge 079 inserted" />
+    <MESSAGE value="Almost there, needs to sort results" />
+    <MESSAGE value="Added two comments to the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added two comments to the user" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065542327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1604065542327" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604274042509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604274042509" />
+    <state width="1259" height="47" key="GridCell.Tab.0.bottom" timestamp="1604335829054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="47" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604335829054" />
+    <state width="1259" height="47" key="GridCell.Tab.0.center" timestamp="1604335829054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="47" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604335829054" />
+    <state width="1259" height="47" key="GridCell.Tab.0.left" timestamp="1604335829054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="47" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604335829054" />
+    <state width="1259" height="47" key="GridCell.Tab.0.right" timestamp="1604335829054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="47" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604335829054" />
+    <state x="121" y="51" key="MergeDialog" timestamp="1603754513932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1603754513932" />
+    <state x="280" y="102" key="MultipleFileMergeDialog" timestamp="1603754513932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="280" y="102" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1603754513932" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1603758903496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603758903496" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604253428569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604253428569" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603929703545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1603929703545" />
+  </component>
+</project>

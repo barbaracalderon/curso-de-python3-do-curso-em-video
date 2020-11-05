@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6efe63fd-44a4-4364-bcc7-a1b294785218" name="Default Changelist" comment="Added a comment on line 13" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/barbaracalderon/curso-de-python3-do-curso-em-video" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ir5HwWWDe64O8SNKvEfpgOEjl7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/desafio071.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="desafio071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mundo-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ba\CursoemVideo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio071.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio071" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6efe63fd-44a4-4364-bcc7-a1b294785218" name="Default Changelist" comment="" />
+      <created>1602652785419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602652785419</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Tabuada challenge is done">
+      <created>1602654295474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602654295474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created even/odds game">
+      <created>1602821847854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602821847854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Challenge 069 is done">
+      <created>1602822979897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602822979897</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added line 12">
+      <created>1602823640339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602823640340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created statistical analysis">
+      <created>1602913478184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602913478184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added the description of the task">
+      <created>1603722688921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603722688921</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created the code for the ATM">
+      <created>1603725244088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603725244088</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added a comment on line 13">
+      <created>1603725559906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603725559906</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tabuada challenge is done" />
+    <MESSAGE value="Created even/odds game" />
+    <MESSAGE value="Challenge 069 is done" />
+    <MESSAGE value="Added line 12" />
+    <MESSAGE value="Created statistical analysis" />
+    <MESSAGE value="Added the description of the task" />
+    <MESSAGE value="Created the code for the ATM" />
+    <MESSAGE value="Added a comment on line 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a comment on line 13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603723656875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1603723656875" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1602653684691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1602653684691" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603753947270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603753947270" />
+    <state width="1259" height="231" key="GridCell.Tab.0.bottom" timestamp="1603726424219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603726424219" />
+    <state width="1259" height="231" key="GridCell.Tab.0.center" timestamp="1603726424218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603726424218" />
+    <state width="1259" height="231" key="GridCell.Tab.0.left" timestamp="1603726424218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603726424218" />
+    <state width="1259" height="231" key="GridCell.Tab.0.right" timestamp="1603726424219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603726424219" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1603723221444">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603723221444" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603753847761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603753847761" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602913061866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602913061866" />
+  </component>
+</project>
