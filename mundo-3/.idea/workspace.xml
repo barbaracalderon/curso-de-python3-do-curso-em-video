@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Sorted list without sort method">
-      <change afterPath="$PROJECT_DIR$/desafio081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Read numbers, put into list and generate analysis">
+      <change beforePath="$PROJECT_DIR$/desafio081.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio081.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605118065331</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Read numbers, put into list and generate analysis">
+      <created>1605159292783</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605159292783</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +387,8 @@
     <MESSAGE value="Almost there, needs to sort results" />
     <MESSAGE value="Added two comments to the user" />
     <MESSAGE value="Sorted list without sort method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorted list without sort method" />
+    <MESSAGE value="Read numbers, put into list and generate analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read numbers, put into list and generate analysis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065542327">
@@ -392,22 +399,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604274042509" />
-    <state width="1259" height="157" key="GridCell.Tab.0.bottom" timestamp="1605118656486">
+    <state width="1259" height="135" key="GridCell.Tab.0.bottom" timestamp="1605159718619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605118656486" />
-    <state width="1259" height="157" key="GridCell.Tab.0.center" timestamp="1605118656486">
+    <state width="1259" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605159718619" />
+    <state width="1259" height="135" key="GridCell.Tab.0.center" timestamp="1605159718619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605118656486" />
-    <state width="1259" height="157" key="GridCell.Tab.0.left" timestamp="1605118656486">
+    <state width="1259" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605159718619" />
+    <state width="1259" height="135" key="GridCell.Tab.0.left" timestamp="1605159718619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605118656486" />
-    <state width="1259" height="157" key="GridCell.Tab.0.right" timestamp="1605118656486">
+    <state width="1259" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605159718619" />
+    <state width="1259" height="135" key="GridCell.Tab.0.right" timestamp="1605159718619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605118656486" />
+    <state width="1259" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605159718619" />
     <state x="121" y="51" key="MergeDialog" timestamp="1603754513932">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -420,10 +427,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604721792554" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605118186957">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605159305798">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605118186957" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605159305798" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603929703545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

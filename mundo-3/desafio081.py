@@ -8,14 +8,13 @@ cont = 0
 while True:
     num = int(input('Digite um valor: '))
     continuar = str(input('Deseja continuar? [S/N]: ')).upper()[0]
-    cont += 1
     lista.append(num)
     if continuar == 'N':
         lista.sort(reverse=True)
         break
 print('=============== [RELATÓRIO] =================')
 print(f'A lista ordenada de forma decrescente é: {lista}')
-print(f'Foram digitados {cont} números.')
+print(f'Foram digitados {len(lista)} números.')
 if 5 in lista:
     print('O valor 5 está presente na lista.')
 else:
