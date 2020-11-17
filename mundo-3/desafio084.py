@@ -5,30 +5,26 @@
 # c) uma listagem com as pessoas mais leves.
 lista = []
 suporte = []
-pesados = []
-leves = []
-cont = peso_total = 0
+maior = menor = 0
 while True:
-    nome = str(input('Nome: '))
-    peso = int(input('Peso: '))
-    suporte.append(nome)
-    suporte.append(peso)
+    suporte.append(str(input('Nome: ')))
+    suporte.append(float(input('Peso: ')))
+    if len(lista) == 0:
+        maior = menor = suporte[1]
+    else:
+        if suporte[1] > maior:
+            maior = suporte[1]
+        elif suporte[1] < menor:
+            menor = suporte[1]
     lista.append(suporte[:])
     suporte.clear()
-    cont += 1
-    peso_total += peso
-    media_peso = peso_total / cont
     continuar = str(input('Deseja continuar? [S/N]: ')).upper()[0]
     if continuar == 'N':
         break
-print(f'Foram cadastradas {cont} pessoas.')
-print(f'A média de pesos é {media_peso} kg')
+print('====================== [RELATÓRIO] =========================')
+print(f'Foram cadastradas {len(lista)} pessoas.')
 for pessoa in lista:
-    if pessoa[1] > media_peso:
-        print(f'{pessoa[0]} é uma pessoa pesada.')
-        pesados.append(pessoa[0])
-    elif pessoa[1] < media_peso:
-        print(f'{pessoa[0]} é uma pessoa leve.')
-        leves.append(pessoa[0])
-print(f'Pesados: {pesados}')
-print(f'Leves: {leves}')
+    if pessoa[1] == maior:
+        print(f'Mais pesado: {pessoa[0]}')
+    if pessoa[1] == menor:
+        print(f'Mais leve: {pessoa[0]}')

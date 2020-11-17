@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Find () in your expressions">
-      <change afterPath="$PROJECT_DIR$/desafio084.py" afterDir="false" />
+    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Heavy weight and light weight">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio084.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio084.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605393858662</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Heavy weight and light weight">
+      <created>1605583291616</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605583291616</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Heavy weight and light weight">
+      <created>1605583848440</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605583848440</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +448,8 @@
     <MESSAGE value="Read numbers, put into list and generate analysis" />
     <MESSAGE value="Full list, odd list, even list" />
     <MESSAGE value="Find () in your expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find () in your expressions" />
+    <MESSAGE value="Heavy weight and light weight" />
+    <option name="LAST_COMMIT_MESSAGE" value="Heavy weight and light weight" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065542327">
@@ -445,22 +460,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605366460661" />
-    <state width="1259" height="150" key="GridCell.Tab.0.bottom" timestamp="1605583195808">
+    <state width="1259" height="4" key="GridCell.Tab.0.bottom" timestamp="1605586211188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605583195808" />
-    <state width="1259" height="150" key="GridCell.Tab.0.center" timestamp="1605583195808">
+    <state width="1259" height="4" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605586211188" />
+    <state width="1259" height="4" key="GridCell.Tab.0.center" timestamp="1605586211188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605583195808" />
-    <state width="1259" height="150" key="GridCell.Tab.0.left" timestamp="1605583195808">
+    <state width="1259" height="4" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605586211188" />
+    <state width="1259" height="4" key="GridCell.Tab.0.left" timestamp="1605586211188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605583195808" />
-    <state width="1259" height="150" key="GridCell.Tab.0.right" timestamp="1605583195808">
+    <state width="1259" height="4" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605586211188" />
+    <state width="1259" height="4" key="GridCell.Tab.0.right" timestamp="1605586211188">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605583195808" />
+    <state width="1259" height="4" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605586211188" />
     <state x="121" y="51" key="MergeDialog" timestamp="1603754513932">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
