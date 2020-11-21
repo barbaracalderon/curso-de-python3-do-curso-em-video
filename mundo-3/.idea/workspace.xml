@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Instructions inserted">
+    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Raw idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafio086.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio086.py" afterDir="false" />
     </list>
@@ -430,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605812974141</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Raw idea">
+      <created>1605907834061</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1605907834061</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,7 +453,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated the README file for mundo-3" />
     <MESSAGE value="Added Title to README" />
     <MESSAGE value="Instructions to the challenge were inserted" />
     <MESSAGE value="Created the code for challenge 072" />
@@ -471,7 +477,8 @@
     <MESSAGE value="Heavy weight and light weight" />
     <MESSAGE value="Heavy and light weights (refactored)" />
     <MESSAGE value="Instructions inserted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instructions inserted" />
+    <MESSAGE value="Raw idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Raw idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065542327">
@@ -482,22 +489,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605904642284" />
-    <state width="1259" height="140" key="GridCell.Tab.0.bottom" timestamp="1605588883398">
+    <state width="1259" height="15" key="GridCell.Tab.0.bottom" timestamp="1605971285606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605588883398" />
-    <state width="1259" height="140" key="GridCell.Tab.0.center" timestamp="1605588883397">
+    <state width="1259" height="15" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605971285606" />
+    <state width="1259" height="15" key="GridCell.Tab.0.center" timestamp="1605971285605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605588883397" />
-    <state width="1259" height="140" key="GridCell.Tab.0.left" timestamp="1605588883397">
+    <state width="1259" height="15" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605971285605" />
+    <state width="1259" height="15" key="GridCell.Tab.0.left" timestamp="1605971285605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605588883397" />
-    <state width="1259" height="140" key="GridCell.Tab.0.right" timestamp="1605588883397">
+    <state width="1259" height="15" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605971285605" />
+    <state width="1259" height="15" key="GridCell.Tab.0.right" timestamp="1605971285605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605588883397" />
+    <state width="1259" height="15" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605971285605" />
     <state x="121" y="51" key="MergeDialog" timestamp="1603754513932">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
