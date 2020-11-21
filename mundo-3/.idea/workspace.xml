@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Outputs from Matrix 3x3">
-      <change afterPath="$PROJECT_DIR$/desafio088.py" afterDir="false" />
+    <list default="true" id="1760d95b-8a6b-44db-9403-c37b62e3b802" name="Default Changelist" comment="Megasena">
+      <change afterPath="$PROJECT_DIR$/desafio089.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.desafio088">
+  <component name="RunManager" selected="Python.desafio089">
     <configuration name="desafio077" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,27 +67,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio077.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio084" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mundo-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio084.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,13 +159,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mundo-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio089.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio089" />
         <item itemvalue="Python.desafio088" />
         <item itemvalue="Python.desafio087" />
         <item itemvalue="Python.desafio086" />
         <item itemvalue="Python.desafio085" />
-        <item itemvalue="Python.desafio084" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605975083322</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Megasena">
+      <created>1605977350566</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1605977350566</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +474,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created the code for challenge 072" />
     <MESSAGE value="Simplified line 10" />
     <MESSAGE value="Created soccer challenge" />
     <MESSAGE value="Inserted exception lines 17, 18, 27" />
@@ -492,7 +498,8 @@
     <MESSAGE value="Raw idea" />
     <MESSAGE value="Matrix 3x3" />
     <MESSAGE value="Outputs from Matrix 3x3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Outputs from Matrix 3x3" />
+    <MESSAGE value="Megasena" />
+    <option name="LAST_COMMIT_MESSAGE" value="Megasena" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604065542327">
@@ -503,22 +510,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605904642284" />
-    <state width="1259" height="215" key="GridCell.Tab.0.bottom" timestamp="1605977171697">
+    <state width="1259" height="379" key="GridCell.Tab.0.bottom" timestamp="1605998519603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605977171697" />
-    <state width="1259" height="215" key="GridCell.Tab.0.center" timestamp="1605977171697">
+    <state width="1259" height="379" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605998519603" />
+    <state width="1259" height="379" key="GridCell.Tab.0.center" timestamp="1605998519603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="215" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605977171697" />
-    <state width="1259" height="215" key="GridCell.Tab.0.left" timestamp="1605977171697">
+    <state width="1259" height="379" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605998519603" />
+    <state width="1259" height="379" key="GridCell.Tab.0.left" timestamp="1605998519603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="215" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605977171697" />
-    <state width="1259" height="215" key="GridCell.Tab.0.right" timestamp="1605977171697">
+    <state width="1259" height="379" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605998519603" />
+    <state width="1259" height="379" key="GridCell.Tab.0.right" timestamp="1605998519603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="215" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605977171697" />
+    <state width="1259" height="379" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605998519603" />
     <state x="121" y="51" key="MergeDialog" timestamp="1603754513932">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -531,10 +538,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604721792554" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605972086344">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605977353976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605972086344" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605977353976" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603929703545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
