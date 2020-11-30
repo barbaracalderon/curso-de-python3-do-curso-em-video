@@ -7,7 +7,7 @@ def leiaInt(mens):
             mens = int(mens)
             break
         else:
-            print('Inválido! Digite um valor numérico.')
+            print('\033[0;31mInválido! Digite um valor numérico.\033[m')
             mens = str(input('Digite um valor: '))
     print(f'{mens} é um número.')
 
