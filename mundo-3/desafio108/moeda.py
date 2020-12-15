@@ -14,7 +14,5 @@ def metade(n):
     r = n / 2
     return r
 
-def formato(n):
-    s = str(n)
-    v = s.replace('.', ',')
-    return f'R${v}'
+def formato(n=0, moeda='R$'):
+    return f'{moeda}{n:>5.2f}'.replace('.', ',')

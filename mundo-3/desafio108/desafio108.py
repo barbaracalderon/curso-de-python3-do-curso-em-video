@@ -2,12 +2,7 @@
 # dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
 import moeda
 num = float(input('Digite o preço: R$'))
-moe = moeda.formato(num)
-aum = moeda.aumentar(num)
-dim = moeda.diminuir(num)
-dob = moeda.dobro(num)
-met = moeda.metade(num)
-print(f'Aumentando 25% de {moe} temos o preço de {moeda.formato(aum)}')
-print(f'Diminuindo 25% de {moe} temos o preço de {moeda.formato(dim)}')
-print(f'O dobro de {moe} é {moeda.formato(dob)}')
-print(f'A metade de {moe} é {moeda.formato(met)}')
+print(f'Aumentando 25% de {moeda.formato(num)} temos o preço de {moeda.formato(moeda.aumentar(num))}')
+print(f'Diminuindo 25% de {moeda.formato(num)} temos o preço de {moeda.formato(moeda.diminuir(num))}')
+print(f'O dobro de {moeda.formato(num)} é {moeda.formato(moeda.dobro(num))}')
+print(f'A metade de {moeda.formato(num)} é {moeda.formato(moeda.metade(num))}')
