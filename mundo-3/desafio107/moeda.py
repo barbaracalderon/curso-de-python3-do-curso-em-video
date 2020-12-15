@@ -1,9 +1,9 @@
 def aumentar(n):
-    r = n + 1
+    r = n * 1.25
     return r
 
 def diminuir(n):
-    r = n - 1
+    r = n * 0.75
     return r
 
 def dobro(n):
