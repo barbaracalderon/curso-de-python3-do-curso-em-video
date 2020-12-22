@@ -25,5 +25,5 @@ def resumo(preco=0, taxa=10, taxared=5):
     print(f'Metade do Preço: \t{metade(preco, True)}')
     print(f'Dobro do Preço: \t{dobro(preco, True)}')
     print(f'{taxa}% de Aumento: \t{aumentar(preco, taxa, True)}')
-    print(f'{taxared}% de Aumento: \t\t{diminuir(preco, taxared, True)}')
+    print(f'{taxared}% de Aumento: \t{diminuir(preco, taxared, True)}')
     print('=' * 30)
