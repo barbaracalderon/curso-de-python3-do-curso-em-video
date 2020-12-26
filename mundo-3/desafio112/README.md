@@ -1,0 +1,2 @@
+### Desafio 112 | Entrada de Dados Monetários
+Dentro do pacote **utilidadescev** que criamos no *Desafio 111*, temos um módulo chamado **dado**. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
