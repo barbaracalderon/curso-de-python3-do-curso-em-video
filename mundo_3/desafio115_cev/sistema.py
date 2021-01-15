@@ -11,12 +11,16 @@ else:
     criarArquivo(arq)
 
 while True:
-    resposta = menu(['Cadastrar Pessoa', 'Ver Cadastro', 'Sair do Sistema'])
+    resposta = menu(['Ver Cadastro', 'Cadastrar Pessoa', 'Sair do Sistema'])
     if resposta == 1:
         # Opção de listar o conteúdo de um arquivo!
         lerArquivo(arq)
     elif resposta == 2:
-        print('VER CADASTRO')
+        # Opção cadastrar uma nova pessoa
+        cabecalho('NOVO CADASTRO')
+        nome = str(input('Nome: '))
+        idade = leiaInt('Idade: ')
+        cadastrar(arq, nome, idade)
     elif resposta == 3:
         print('<< SISTEMA ENCERRADO >>')
         break

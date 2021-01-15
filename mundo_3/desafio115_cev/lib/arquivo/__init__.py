@@ -28,3 +28,20 @@ def lerArquivo(nome):
     else:
         cabecalho('PESSOAS CADASTRADAS')
         print(a.read())
+    finally:
+        a.close()
+
+def cadastrar(arq, nome='desconhecido', idade=0):
+    try:
+        a = open(arq, 'at')
+        #'at' = append and text
+    except:
+        print('Houve um erro na abertura do arquivo.')
+    else:
+        try:
+            a.write(f'{nome};{idade}\n')
+        except:
+            print('Houve um erro na hora de escrever os dados.')
+        else:
+            print(f'Novo registre de {nome} adicionado.')
+            a.close()
