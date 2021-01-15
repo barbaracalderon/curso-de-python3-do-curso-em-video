@@ -13,7 +13,8 @@ else:
 while True:
     resposta = menu(['Cadastrar Pessoa', 'Ver Cadastro', 'Sair do Sistema'])
     if resposta == 1:
-        print('CADASTRAR PESSOA')
+        # Opção de listar o conteúdo de um arquivo!
+        lerArquivo(arq)
     elif resposta == 2:
         print('VER CADASTRO')
     elif resposta == 3:
