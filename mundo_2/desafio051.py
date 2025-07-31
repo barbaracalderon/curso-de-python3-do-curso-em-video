@@ -3,9 +3,9 @@
 # termos dessa progressão.
 
 print('=========== PROGRESSÃO ARITMÉTICA ===========')
-primeiro = int(input('Digite o primeiro termo: '))
-r = int(input('Digite a razão dessa PA: '))
-decimo = primeiro + (10 - 1) * r
+primeiro = float(input('Digite o primeiro termo: '))
+r = float(input('Digite a razão dessa PA: '))
 print('Os 10 primeiros termos dessa progressão são: ')
-for i in range(primeiro, decimo + r, r):
-    print(i, end= ' ')
+for i in range(10):
+    print(f'{primeiro:.0f}', end=' -> ')
+    primeiro += r
